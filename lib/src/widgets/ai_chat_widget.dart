@@ -46,7 +46,7 @@ class _AIChatWidgetState extends State<AIChatWidget> {
   @override
   void initState() {
     super.initState();
-    _theme = widget.theme ?? AIKitTheme();
+    _theme = widget.theme ?? const AIKitTheme();
     _initializeService();
   }
 
@@ -108,7 +108,6 @@ class _AIChatWidgetState extends State<AIChatWidget> {
         _isLoading = false;
       });
       if (mounted) {
-        print('Error: $e');
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Error: $e'),

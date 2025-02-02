@@ -1,7 +1,6 @@
 import 'package:http/http.dart' as http;
 import '../models/ai_message.dart';
 import '../models/ai_config.dart';
-import '../models/generation_options.dart';
 
 abstract class BaseService {
   final AIConfig config;

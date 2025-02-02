@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_ai_kit/src/models/ai_message.dart';
 import 'package:flutter_ai_kit/src/widgets/message_bubble.dart';
 import '../models/ai_config.dart';
-import '../models/generation_options.dart';
 import '../theme/ai_kit_theme.dart';
 import '../services/openai_service.dart';
 
