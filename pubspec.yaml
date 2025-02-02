@@ -1,6 +1,6 @@
 name: flutter_ai_kit
 description: A comprehensive Flutter package for integrating AI services like OpenAI, Google Gemini, and HuggingFace. Features include chat interfaces, image generation, and text processing with beautiful UI components.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/Hamed233/flutter_ai_kit
 repository: https://github.com/Hamed233/flutter_ai_kit
 issue_tracker: https://github.com/Hamed233/flutter_ai_kit/issues

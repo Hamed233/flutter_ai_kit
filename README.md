@@ -32,7 +32,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_ai_kit: ^1.0.0
+  flutter_ai_kit: ^1.0.2
 ```
 
 ### Basic Usage
