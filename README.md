@@ -4,7 +4,9 @@ A comprehensive Flutter package for integrating AI services like OpenAI, Google 
 
 ## Demo Video 🎥
 
-https://github.com/Hamed233/flutter_ai_kit/demo/demo_flutter_ai_kit.mp4
+<div align="center">
+  <img src="demo/demo_flutter_ai_kit.gif" alt="Flutter AI Kit Demo" width="400"/>
+</div>
 
 [![pub package](https://img.shields.io/pub/v/flutter_ai_kit.svg)](https://pub.dev/packages/flutter_ai_kit)
 [![likes](https://img.shields.io/pub/likes/flutter_ai_kit?logo=dart)](https://pub.dev/packages/flutter_ai_kit/score)
